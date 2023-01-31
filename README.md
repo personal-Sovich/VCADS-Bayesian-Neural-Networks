@@ -6,11 +6,13 @@ This code is a culmination of work done to investigate Bayesian Neural Networks
 as a means of capturing the aleatoric and epistemic uncertainty inherent and
 present within a model. With BNNs, one is able to gather from the model where
 and how uncertain the model is to better ones understanding of the data. The data used for 
-modeling is synthetically created using a differential equation solver.
+modeling is synthetically created using a differential equation solver. Code was functional
+given requirements.txt file in Python 3.10.6.
 
 ## Experimental Data BNN Model Build / Load
 This code is a culmination of work done to investigate Bayesian Neural Networks 
 as a means of capturing the aleatoric and epistemic uncertainty inherent and
 present within a model. With BNNs, one is able to gather from the model where
 and how uncertain the model is to better ones understanding of the data. This code
-is used to extract raw experimental data from files collected on 12/17/2022 for training.
+is used to extract raw experimental data from files collected on 12/17/2022 for training.  
+Code was functional given requirements.txt file in Python 3.10.6.
